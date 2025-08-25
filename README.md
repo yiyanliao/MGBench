@@ -14,7 +14,7 @@ This is the official repository of preprint [**Comparative assessment of co-fold
 
 We provide the dataset and evaluation results in the [`data`](https://github.com/yiyanliao/MGBench/tree/main/data) directory, which includes:
 
-- [`MGPDB.xlsx`](https://github.com/yiyanliao/MGBench/blob/main/data/MGPDB.xlsx): Full MG-PDB dataset with structural and metadata information.  
+- [`data.xlsx`](https://github.com/yiyanliao/MGBench/blob/main/data/data.xlsx): Full MG-PDB dataset with structural and metadata information.  
 - [`all_dockq_final.csv`](https://github.com/yiyanliao/MGBench/blob/main/data/all_dockq_final.csv): Evaluation results of DockQ metric.  
 - [`all_lddtpli_final.csv`](https://github.com/yiyanliao/MGBench/blob/main/data/all_lddtpli_final.csv): Evaluation results of LDDT-PLI metric.  
 - [`all_lrmsd_final.csv`](https://github.com/yiyanliao/MGBench/blob/main/data/all_lrmsd_final.csv): Evaluation results of Ligand RMSD metric.
