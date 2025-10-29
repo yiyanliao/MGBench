@@ -1,10 +1,10 @@
 # Comparative assessment of co-folding models for molecular glue ternary structure prediction
 
-[![bioRxiv](https://img.shields.io/badge/paper-bioRxiv-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2025.05.25.655997v1)
+[![J. Chem. Inf. Model.](https://img.shields.io/badge/paper-J.%20Chem.%20Inf.%20Model.-B31B1B.svg)](https://doi.org/10.1021/acs.jcim.5c01860)
 
 ![TOC](https://github.com/yiyanliao/MGBench/blob/main/img/TOC.jpg)
 
-This is the official repository of preprint [**Comparative assessment of co-folding models for molecular glue ternary structure prediction**](https://www.biorxiv.org/content/10.1101/2025.05.25.655997v1).
+This is the official repository of article [**Benchmarking Cofolding Methods for Molecular Glue Ternary Structure Prediction**](https://doi.org/10.1021/acs.jcim.5c01860).
 
 ## Introduction
 
@@ -40,15 +40,18 @@ The complete source code for generating all statistical plots in the main textâ€
 If you find our dataset and benchmark useful, please cite it in your publications:
 
 ```bib
-@article {Liao2025.05.25.655997,
-	author = {Liao, Yiyan and Zhu, Jintao and Xie, Juan and Lai, Luhua and Pei, Jianfeng},
-	title = {Comparative assessment of co-folding methods for molecular glue ternary structure prediction},
-	elocation-id = {2025.05.25.655997},
-	year = {2025},
-	doi = {10.1101/2025.05.25.655997},
-	publisher = {Cold Spring Harbor Laboratory},
-	eprint = {https://www.biorxiv.org/content/early/2025/05/28/2025.05.25.655997.full.pdf},
-	journal = {bioRxiv}
+@article{Liao2025Benchmarking,
+  title = {Benchmarking Cofolding Methods for Molecular Glue Ternary Structure Prediction},
+  author = {Liao, Yiyan and Zhu, Jintao and Xie, Juan and Lai, Luhua and Pei, Jianfeng},
+  journal = {Journal of Chemical Information and Modeling},
+  year = {2025},
+  volume = {65},
+  number = {20},
+  pages = {11136--11148},
+  doi = {10.1021/acs.jcim.5c01860},
+  publisher = {American Chemical Society},
+  issn = {1549-9596},
+  url = {https://doi.org/10.1021/acs.jcim.5c01860}
 }
 ```
 
