@@ -1,4 +1,4 @@
-# Comparative assessment of co-folding models for molecular glue ternary structure prediction
+# Benchmarking Cofolding Methods for Molecular Glue Ternary Structure Prediction
 
 [![J. Chem. Inf. Model.](https://img.shields.io/badge/paper-J.%20Chem.%20Inf.%20Model.-B31B1B.svg)](https://doi.org/10.1021/acs.jcim.5c01860)
 
